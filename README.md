@@ -18,13 +18,13 @@
 
 ✧✧𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴✧✧ - 
 
-                 ❀❀ɪᴅ sᴛʀɪɴɢ❀❀
+          ✧✧ɪᴅ sᴛʀɪɴɢ✧✧
 
 
 [![REPL](https://repl.it/badge/github/DARKAMAN6/KGF-MULTI-SPAM-BOT)](https://replit.com/@DARKAMAN6/KGF-MULTI-SPAM-REPLIT-BY-DARKAMAN6)
  
 
-                 ✯✯ʙᴏᴛ Sᴛʀɪɴɢ✯✯
+          ✧✧ʙᴏᴛ Sᴛʀɪɴɢ✧✧
 
 
 [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/SPAM-BOT-REPL-BY-SIDDHANT-DEVIL)
@@ -35,7 +35,9 @@
 
 
 
+
 ##✧✧ᴄʀᴇᴅɪᴛs✧✧
+
 
 
 
