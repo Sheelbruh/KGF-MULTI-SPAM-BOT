@@ -1801,11 +1801,11 @@ async def get_users(event):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "❀❀ӄɢƒ ʍʊʟȶɨ ֆքǟʍ ɮօȶ ❀❀!"
+        text = "❀❀𝐓𝐒𝐅 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓❀❀!"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms{ALIVE_NAME} ❀❀ӄɢƒ ֆքǟʍ ɮօȶ❀❀")
+        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms{ALIVE_NAME} ❀❀𝐉𝐎 𝐋𝐄𝐆𝐀 𝐓𝐒𝐅 𝐒𝐄 𝐊𝐇𝐔𝐒𝐊𝐈 𝐌𝐀𝐀 𝐂𝐇𝐎𝐃 𝐃𝐄𝐍𝐆𝐄 𝐔𝐒𝐊𝐈👿❀❀")
 
 
 
@@ -1844,7 +1844,7 @@ async def ping(e):
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙\n\nPlease wait till it reboots..."
+        text = "𝙍𝙚𝙨𝙩𝙖𝙧𝙩𝙚𝙙\n\nRUK JA BSDK..."
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await idk.disconnect()
@@ -2016,8 +2016,8 @@ async def help(e):
         
 text = """
 
-💥💥ӄɢ⨍ ʍʊʟȶɨ ֆքǟʍ ɮօȶ 💥💥💥
-💥ɮʏ ɖɛʋɨʟ ֆɨɖɦǟռȶ ǟռɖ ɖǟʀӄǟʍǟռ💥"""
+💥💥𝐓𝐒𝐅 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓💥💥💥
+💥MEGASTAR💥"""
 
 print(text)
 print("")
